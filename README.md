@@ -48,4 +48,4 @@ Implementation Link : https://github.com/HimashiRathnayake/Pump-it-Up-Data-Minin
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Submission
-![result1](https://user-images.githubusercontent.com/47143221/133817635-7e21de68-6fcb-4efd-8f4d-c6b6bc00b5e8.png)
+![result2](https://user-images.githubusercontent.com/47143221/133818657-3af2c817-ccd2-4af3-ac8a-bc94b8632c3b.png)

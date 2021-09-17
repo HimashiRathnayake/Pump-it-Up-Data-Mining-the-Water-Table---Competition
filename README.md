@@ -1,14 +1,12 @@
-# Pump-it-Up-Data-Mining-the-Water-Table-Competition
+# Pump it Up Data Mining the Water Table - Competition
 
-Implementation Link : Final Implementation.ipynb
-
-[Pump it Up: Data Mining the Water Table - Competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table)
+Implementation Link : https://github.com/HimashiRathnayake/Pump-it-Up-Data-Mining-the-Water-Table-Competition/blob/4d672e58d8439964ca88c22309ed834d9c5244b7/Final%20Implementation.ipynb
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Experiments
 
-### Preprocessing Techniques:
+### Preprocessing Techniques :
 
 * Fix typo errors in the Dataset - `installer`
 * Drop duplicated features - `source_class`, `source_type`, `management_group`, `scheme_management`, `quantity_group`, `quality_group`, `payment_type`, `extraction_type_class`, `extraction_type`, `waterpoint_type_group`, `region_code`
@@ -27,7 +25,7 @@ Implementation Link : Final Implementation.ipynb
 * Reduce feature's category counts - Only keep few categories & group other categories to Other, for the features having large number of categories - `installer`, `funder`
 * Converting target values to ternary values. - `status_group`
 
-### Feature Engineering Techniques:
+### Feature Engineering Techniques :
 
 * Check Mutual Information
 * Binning to groups - `construction_year`
@@ -35,16 +33,18 @@ Implementation Link : Final Implementation.ipynb
 * Principal Component Analysis - `gps_height`, `population`
 * Target Encoding - `ward`
 
-### Experimented Models:
+### Experimented Models :
 
 * [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [XGBoost Classifier](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
 
-### Results
+### Experiments Results :
 
 | Modal | Train Accuracy | Test Accuracy |
 | --- | --- | --- |
 | Random Forest | 0.9089 | 0.7913 |
 | XGBoost | 0.9060 | 0.8111 |
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Submission

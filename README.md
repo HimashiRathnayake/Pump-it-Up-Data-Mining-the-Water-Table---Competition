@@ -1,6 +1,6 @@
 # Pump it Up Data Mining the Water Table - Competition
 
-Implementation Link : https://github.com/HimashiRathnayake/Pump-it-Up-Data-Mining-the-Water-Table-Competition/blob/4d672e58d8439964ca88c22309ed834d9c5244b7/Final%20Implementation.ipynb
+Implementation Link : https://github.com/HimashiRathnayake/Pump-it-Up-Data-Mining-the-Water-Table-Competition
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -49,3 +49,4 @@ Implementation Link : https://github.com/HimashiRathnayake/Pump-it-Up-Data-Minin
 
 # Submission
 ![result2](https://user-images.githubusercontent.com/47143221/133818657-3af2c817-ccd2-4af3-ac8a-bc94b8632c3b.png)
+![result3](https://user-images.githubusercontent.com/47143221/133819480-47e90b1c-08bc-4724-b8f7-7ac9d5fdc862.png)

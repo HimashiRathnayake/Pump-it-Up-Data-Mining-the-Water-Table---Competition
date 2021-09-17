@@ -40,7 +40,7 @@ Implementation Link :
 * [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 * [XGBoost Classifier](https://xgboost.readthedocs.io/en/latest/python/python_api.html)
 
-Results
+### Results
 
 | Modal | Train Accuracy | Test Accuracy |
 | --- | --- | --- |
